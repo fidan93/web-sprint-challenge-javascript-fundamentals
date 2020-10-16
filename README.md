@@ -25,15 +25,15 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
-1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max)
+1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max). forEach method doesn't create new array,but map creates new array. forEach is like for loop for arrays.
 
-2. Explain the difference between a callback and a higher order function.
+2. Explain the difference between a callback and a higher order function.Higher order function takes callback function as argument.
 
-3. What is closure?
+3. What is closure? closure is border of a function. everything inside a function is in closure.
 
-4. Describe the four rules of the 'this' keyword.
+4. Describe the four rules of the 'this' keyword. 1.this refers to the left from dot,2.if we don't have any obj that this refers to.this refers to window obj. 3 in inplicit binding apply() -this refers to the obj to the left from the dot.
 
-5. Why do we need super() in an extended class?
+5. Why do we need super() in an extended class? super() is the same as apply(). It calls the main func and sends arguments to it. 
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
