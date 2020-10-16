@@ -31,7 +31,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 3. What is closure? closure is border of a function. everything inside a function is in closure.
 
-4. Describe the four rules of the 'this' keyword. 1.this refers to the left from dot,2.if we don't have any obj that this refers to.this refers to window obj. 3 in inplicit binding apply() -this refers to the obj to the left from the dot.
+4. Describe the four rules of the 'this' keyword. 1.this refers to the left from dot,2.if we don't have any obj that this refers to.this refers to window obj. 3 in explicit binding apply() -this refers to the obj to the left from the dot.4 when we create new Obj this refers to the new created object
 
 5. Why do we need super() in an extended class? super() is the same as apply(). It calls the main func and sends arguments to it. 
 
